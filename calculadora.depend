@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536308793 source:c:\users\neeco\desktop\tp1\calculadora\neira.c
+	<stdio.h>
+	<stdlib.h>
+	<neira.h>
+
+1536309266 source:c:\users\neeco\desktop\tp1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<neira.h>
+
+1536305375 source:c:\users\neeco\desktop\tp1\calculadora\neira.h
+	<stdio.h>
+	<stdlib.h>
+
